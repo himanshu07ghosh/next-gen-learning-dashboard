@@ -18,7 +18,7 @@ export default function DashboardClient({ courses }: DashboardClientProps) {
         <div className="max-w-7xl mx-auto px-6 py-8">
           <div className="flex flex-col sm:flex-row sm:justify-between gap-4">
             <div>
-              <h1 className="text-3xl font-bold text-white">Welcome back, Alex Johnson</h1>
+              <h1 className="text-3xl font-bold text-white">Welcome back, Himanshu Ghosh</h1>
               <p className="text-gray-400 mt-2">Ready to continue your learning journey?</p>
             </div>
             <div className="flex items-center gap-3 bg-orange-500/10 rounded-2xl px-4 py-3">
